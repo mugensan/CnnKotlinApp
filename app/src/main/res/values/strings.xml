@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CnnApp</string>
+    <string name="enter_email">enter_email</string>
+    <string name="enter_password">enter_password</string>
+    <string name="login">login</string>
+    <string name="space">===============================</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+</resources>
